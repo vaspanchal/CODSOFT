@@ -78,7 +78,7 @@ public class transferMoney implements ActionListener {
             int amt = Integer.parseInt(amount.getText());
 
             Balance bal = new Balance();
-            if(amt > bal.balance || reciever.getText()!="")
+            if(amt > bal.balance)
             {
                 Insufficient insufficient = new Insufficient();
                 frame2.dispose();
