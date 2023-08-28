@@ -11,3 +11,5 @@ CodSoft Java Internship's 3 Tasks:
      d. Transfer Funds - Transfer money from your bank account to others bank or UPI account
      e. Check Balance - Tells remaining Balance of account
      f. Change PIN - changes default PIN into your choice's one (default PIN - 1111 ; necessary to perform further operations )
+
+NOTE - **Run Main file of every program for proper execution.**
